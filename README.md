@@ -26,6 +26,7 @@ Tkinter
 Dataset
 
 The project uses the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
+Dataset Link = https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 Dataset details:
 - 43 different traffic sign classes
